@@ -1,10 +1,9 @@
 #include <Windows.h>
-#include <thread>
-#include "EyeStep/eyestep.h"
-#include "EyeStep/eyestep_utility.h"
 #include <iostream>
+#include <thread>
 #include <time.h>
-#include "retcheck.h"
+#include "EyeStep/eyestep_utility.h"
+#include "EyeStep/eyestep.h"
 #include "scheduler.h"
 #define getConvention(a) EyeStep::convs[EyeStep::util::getConvention(a)]
 
