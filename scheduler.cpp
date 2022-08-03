@@ -1,8 +1,6 @@
 #include "scheduler.h"
 #include "EyeStep/eyestep_utility.h"
 #include <iostream>
-//#include "console/console.h"
-//#include "api/api.h"
 
 namespace func_defs
 {
